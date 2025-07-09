@@ -10,5 +10,5 @@
 
 **FlorixL** is a tool that transforms markdown with plugins.
 These plugins can inspect and change your markup.
-You can use remark on the server, the client, CLIs, deno, etc.
+You can use FlorixL on the server, the client, CLIs, deno, etc.
 
