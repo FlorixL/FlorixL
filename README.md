@@ -1,14 +1,14 @@
-# ![remark][logo]
+# Ok Wait For a Minute 
 
-[![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
-[![Size][size-badge]][size]
-[![Sponsors][sponsors-badge]][collective]
-[![Backers][backers-badge]][collective]
-[![Chat][chat-badge]][chat]
+![Build]( https://github.com/remarkjs/remark/workflows/main/badge.svg)
+![Coverage]( https://img.shields.io/codecov/c/github/remarkjs/remark.svg)
+![Downloads]( https://img.shields.io/npm/dm/remark.svg)
+![Size]( https://img.shields.io/bundlejs/size/remark)
+![Sponsors]( https://opencollective.com/unified/sponsors/badge.svg)
+![Backers]( https://opencollective.com/unified/backers/badge.svg)
+![Chat]( https://img.shields.io/badge/chat-discussions-success.svg)
 
-**remark** is a tool that transforms markdown with plugins.
+**FlorixL** is a tool that transforms markdown with plugins.
 These plugins can inspect and change your markup.
 You can use remark on the server, the client, CLIs, deno, etc.
 
